@@ -4,10 +4,9 @@
 
 <br/>
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=myoung2namur&theme=tokyonight)<br/>
-
+<br/>
 ![Github Stat](https://github-readme-stats.vercel.app/api?username=myoung2namur&show_icons=true&theme=tokyonight)<br/>
-이렇게 됩니다.
-
+<br/>
 ## 연락처
 
 #### 연락은 
