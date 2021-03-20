@@ -1,8 +1,9 @@
 # 명이의 README.MD
 
 안녕하세요! 그냥 코딩 좋아하는 명이입니다.
-<div>
+
 ## Github Stats  
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=myoun&show_icons=true&count_private=true&hide_border=true" align="center" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myoun&hide_border=true&layout=compact" align="left" />
