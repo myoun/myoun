@@ -25,6 +25,6 @@
 
 
 ## Spotify
-<duv>
+<div>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0qwbkjhq0at655urmjw2sgllk&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=0qwbkjhq0at655urmjw2sgllk&redirect=true)
 </div>
