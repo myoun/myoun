@@ -2,15 +2,11 @@
 
 안녕하세요! 그냥 코딩 좋아하는 명이입니다.
 
-많이 쓰는 언어 : <br/>
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=myoun&theme=tokyonight)<br/>
-Github Stat : <br/>
-![Github Stat](https://github-readme-stats.vercel.app/api?username=myoun&show_icons=true&theme=tokyonight)<br/>
-<br/>
-## 연락처
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=myoun&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-#### 연락은 
-```diff
-+디스코드 : 명이#5384
-+이메일 : aiden080605@gmail.com
-```
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myoun&hide_border=true&layout=compact" align="left" /></div>
+<br/>
+
+## Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0qwbkjhq0at655urmjw2sgllk&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=0qwbkjhq0at655urmjw2sgllk&redirect=true)
