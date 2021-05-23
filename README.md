@@ -17,7 +17,7 @@
 
 ## 현재 진행중인 프로젝트
 [psychics-ability](https://github.com/myoun/psychics-ability)<br/>
-[MAIO]
+[MAIO](https://github.com/myoun/Maio)
 
 
 ## Github Stats  
