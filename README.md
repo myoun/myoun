@@ -17,8 +17,8 @@
 
 ## 현재 진행중인 프로젝트
 [psychics-ability](https://github.com/myoun/psychics-ability)<br/>
-[MAIO](https://github.com/myoun/Maio)
-[Hypnos](https://github.com/myoun/Hypnos)
+[MAIO](https://github.com/myoun/Maio)<br/>
+[Hypnos](https://github.com/myoun/Hypnos)<br/>
 [MSJD](https://github.com/myoun/MSJD)
 
 
